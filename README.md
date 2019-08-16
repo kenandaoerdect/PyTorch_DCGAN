@@ -1,1 +1,1 @@
-# pytorch_DCGAN
+# PyTorch_DCGAN
