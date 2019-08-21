@@ -7,5 +7,6 @@ First, put your datasets to `./data/` folder.
   
 Then, train the DCGAN:  
   
-```$ python train.py```  
+```$ python train.py```      
+
 After several steps, you will see the results in `./img/` folder.  
